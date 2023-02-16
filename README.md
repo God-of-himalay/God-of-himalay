@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @God-of-himalay
-- 👀 I’m interested in programming and stimulating device
-- 🌱 I’m currently learning python and kivy
-- 💞️ I’m looking to collaborate app development in kivymd and kivy
 - 📫 How to reach me omsahutelecom@gmail.com
 
 <!---
